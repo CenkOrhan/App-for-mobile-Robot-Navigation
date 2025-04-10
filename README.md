@@ -1,7 +1,7 @@
 # App-for-mobile-Robot-Navigation
 Das ist eine Applikation zur autonomen Navigation des humanoiden mobilen Roboters Pepper. 
 Das Ziel besteht darin mit Hilfe der vom Hersteller bereigetsellten Methoden zur "Self localization and Mapping"(SLAM) eine
-Applikation zu autonomen Navigation zu enwtickeln. 
+Applikation zur autonomen Navigation zu enwtickeln. 
 ## Hinweis
 1. Für das Lokalisieren wird ein Partikelfilter verwendet.
 2. Für das Kartieren nutzt der Roboter das GMapping.
